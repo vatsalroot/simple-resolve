@@ -2,7 +2,7 @@
 
 - A simple script to clean list of dns servers.
 - This script uses dig to check which dns server responds back to the query google.com (dig @8.8.8.8 google.com)
-
+- Note : This script won't check for poisoned dns servers.
 
 ## Working
 
