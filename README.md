@@ -21,3 +21,7 @@ Failed : 94.236.218.254
 200.62.147.66
 77.88.8.3
 ```
+
+## Output
+
+- Working list of dns servers saved at `resolvers.txt`
